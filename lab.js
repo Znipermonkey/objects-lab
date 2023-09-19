@@ -7,7 +7,7 @@
 //Code here
 let me = {
   firstName: "Robert",
-  lastName: 'VerFreenier',
+  lastName: 'Free',
   age: 18
 }
 
